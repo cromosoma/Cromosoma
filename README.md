@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 Currently leading the development of MaadFall <br>      and founder of Maad.ai.<br><br>🤝 I am always in an active search for professionals,<br>      and people who simply dedicate their lives to doing <br>      what they love with passion and sharing experiences.<br><br>🌱 I am in constant personal and professional learning, <br>      trying to improve myself. <br><br>💬 If you have questions or want to propose a project,<br>      I will always be willing to listen.<br><br>⚡ So please go ahead! This way my friends can take a break
+![Facebook Cover Image](https://user-images.githubusercontent.com/61652024/221357907-057c35f3-e4ce-4240-a64d-d66f616dddb2.png)
+
+🔭 Currently leading and working in the development of Maadfall mainly. Founder of Maadaitech. I am passionate about educational dissemination and experience producing projects related to art, science and intelligent robotics.
+
+My heart works with Raspberry Pi hardware and my mind with Open Source software, I hope that if you go through my repositories, they inspire you as other incredible creators of the community have inspired me and if you like my work, you want to collaborate or suggest ideas my Mail will always welcome you, don't forget to quote if you use my codes!
+and founder of Maadaitech. <br>      and founder of Maadaitech.<br><br>🤝 I am always in an active search for professionals,<br>      and people who simply dedicate their lives to doing <br>      what they love with passion and sharing experiences.<br><br>🌱 I am in constant personal and professional learning, <br>      trying to improve myself  and sharing my projects with the community. <br><br>💬 If you have questions or want to propose a project,<br>      I will always be willing to listen.<br><br>⚡ So please go ahead! This way my friends can take a break
 
 
 # 💻 Tech Stack:
